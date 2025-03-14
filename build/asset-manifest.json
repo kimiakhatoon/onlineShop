@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4fa69a2.css",
-    "main.js": "/static/js/main.c5ad2c53.js",
-    "static/media/tv-hyundai.jpg": "/static/media/tv-hyundai.157ff940aa0974b2c85a.jpg",
-    "static/media/tv-samsung.jpg": "/static/media/tv-samsung.59e9d87ffd5de5c69168.jpg",
-    "static/media/tv-hisense.jpg": "/static/media/tv-hisense.b3744bbd411d71d35fc3.jpg",
-    "static/media/espresso-philips.jpg": "/static/media/espresso-philips.fe6acc834ecf12b891fe.jpg",
-    "static/media/coffeeMaker-krups.jpg": "/static/media/coffeeMaker-krups.8f27823d19fceb951f41.jpg",
-    "index.html": "/index.html",
-    "main.a4fa69a2.css.map": "/static/css/main.a4fa69a2.css.map",
-    "main.c5ad2c53.js.map": "/static/js/main.c5ad2c53.js.map"
+    "main.css": "/onlineShop/static/css/main.a4fa69a2.css",
+    "main.js": "/onlineShop/static/js/main.1fd34552.js",
+    "static/media/tv-hyundai.jpg": "/onlineShop/static/media/tv-hyundai.157ff940aa0974b2c85a.jpg",
+    "static/media/tv-samsung.jpg": "/onlineShop/static/media/tv-samsung.59e9d87ffd5de5c69168.jpg",
+    "static/media/tv-hisense.jpg": "/onlineShop/static/media/tv-hisense.b3744bbd411d71d35fc3.jpg",
+    "static/media/espresso-philips.jpg": "/onlineShop/static/media/espresso-philips.fe6acc834ecf12b891fe.jpg",
+    "static/media/coffeeMaker-krups.jpg": "/onlineShop/static/media/coffeeMaker-krups.8f27823d19fceb951f41.jpg",
+    "index.html": "/onlineShop/index.html",
+    "main.a4fa69a2.css.map": "/onlineShop/static/css/main.a4fa69a2.css.map",
+    "main.1fd34552.js.map": "/onlineShop/static/js/main.1fd34552.js.map"
   },
   "entrypoints": [
     "static/css/main.a4fa69a2.css",
-    "static/js/main.c5ad2c53.js"
+    "static/js/main.1fd34552.js"
   ]
 }
