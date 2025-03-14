@@ -1,6 +1,6 @@
 import './App.css'; 
 import 'bootstrap/dist/css/bootstrap.rtl.min.css';
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import {HashRouter as Router, Route, Routes} from "react-router-dom";
 import Shop from './pages/shop/shop';
 import Cart from './pages/cart/cart';
 import Nav from './components/nav';
